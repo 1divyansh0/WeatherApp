@@ -147,7 +147,6 @@ fetch(`http://api.weatherapi.com/v1/current.json?key=a825c1d7d01c47dd88763453251
 )
 app.style.opacity="1";
 }
-fetchweatherdata();
-app.style.opacity="1";
+
 
 
