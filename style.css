@@ -157,9 +157,15 @@ h1,h3{
    }
 
 }
-@media (max-width : 575px) {
+@media (max-width : 425px) {
     html{
     font-size:10px;
+    }
+    
+}
+@media (max-width : 264px) {
+    html{
+    font-size:8px;
     }
     
 }
